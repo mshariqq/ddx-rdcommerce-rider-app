@@ -22,3 +22,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
+
+Built by [SHA REEQ](https://mshariqq.github.io/) - M Shariq Ahmed (mshariqq), Web Developer in Hyderabad.
